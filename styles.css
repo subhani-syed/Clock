@@ -1,0 +1,25 @@
+body{
+    background-color: #2FA4FF;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    color: #0E185F;
+    text-align: center;
+    background: #E8FFC2;
+    border-radius: 10px;
+}
+.container{
+    margin-top: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+#clock{
+    text-align: center;
+    background: #333333;
+    border-radius: 10px;
+    width: 250px;
+    padding: 10px;
+    color: white;
+    font-size: 40px;
+}
